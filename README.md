@@ -4,7 +4,9 @@ This calculator in Beta version! Please Open a issue for more development!🙂�
 # Run
 To run this calculator Downlaod this code and Run `index.html`
 
-# ToDo
+# Development
+Join us on Telegram For Future Development [https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white](https://t.me/TheTeamTC
+# To Do
 - Add Voice Input
 - Change wallpaper
 - Change color 😂
