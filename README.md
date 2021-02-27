@@ -4,13 +4,10 @@ This calculator in Beta version! Please Open a issue for more development!🙂�
 # Run
 To run this calculator Downlaod this code and Run index.html
 
-# Changing calculator
-Soon...
-
 # ToDo
 - Add Voice Input
 - Change wallpaper
-- Change color (:D)
+- Change color 😂
 - Add a "Know More" page
 
 # Credits
