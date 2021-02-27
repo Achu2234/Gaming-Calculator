@@ -7,5 +7,11 @@ To run this calculator Downlaod this code and Run index.html
 # Changing calculator
 Soon...
 
+# ToDo
+- Add Voice Input
+- Change wallpaper
+- Change color (:D)
+- Add a "Know More" page
+
 # Credits
-All credits goes to [Abarna Codespot](https://github.com/abarna-codespot) for his source code! 
+All credits goes to [Abarna Codespot](https://github.com/abarna-codespo) for his source code! 
