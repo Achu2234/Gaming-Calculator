@@ -1,7 +1,7 @@
 # Gaming-Calculator (BETA)
-This calculator in Beta version! Please Open a issue for more development!🙂️
+This calculator in *Beta* version! Please Open a issue for more development or Join Us on Telegram 🙂
 
-# Run
+# To Run This Calculator
 To run this calculator Downlaod this code and Run `index.html`
 
 
@@ -10,7 +10,7 @@ Join us on Telegram For Future Development <a href="https://t.me/TheTeamTC"> <im
 
 
 # To DO
-- Add Voice Input
+- Add Voice Input 
 - Change wallpaper
 - Change color 😂
 - Add a "Know More" page 🙂
