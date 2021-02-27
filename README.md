@@ -12,7 +12,7 @@ Join us on Telegram For Future Development <a href="https://t.me/TheTeamTC"> <im
 # To DO
 - Add Voice Input 
 - Change wallpaper
-- Change color 😂
+- Add More colors 😂 (will be on releases tab)
 - Add a "Know More" page 🙂
 - Make an Website for Online Calculations 😅
 
