@@ -4,8 +4,10 @@ This calculator in Beta version! Please Open a issue for more development!ðŸ™‚ï¸
 # Run
 To run this calculator Downlaod this code and Run `index.html`
 
+
 # Development
-Join us on Telegram For Future Development [https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white](https://t.me/TheTeamTC)
+Join us on Telegram For Future Development <a href="https://t.me/TheTeamTC"> <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+
 
 # To DO
 - Add Voice Input
