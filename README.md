@@ -1,5 +1,5 @@
 # Gaming-Calculator (BETA)
-This calculator in *Beta* version! Please Open a issue for more development or Join Us on Telegram 🙂
+This calculator in **Beta** version! Please Open a issue for more development or Join Us on Telegram 🙂
 
 # To Run This Calculator
 To run this calculator Downlaod this code and Run `index.html`
