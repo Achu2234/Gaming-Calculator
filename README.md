@@ -2,7 +2,7 @@
 This calculator in **Beta** version! Please Open a issue for more [development](https://github.com/TeamTC/Gaming-Calculator#development) or [Join Us on Telegram](https://github.com/TeamTC/Gaming-Calculator#development) 🙂
 
 # To Run This Calculator
-To run this calculator Downlaod this code and Run `index.html`
+To run this calculator [Downlaod this code](https://github.com/TeamTC/Gaming-Calculator/archive/main.zip) and Run `index.html`
 
 
 # Development
